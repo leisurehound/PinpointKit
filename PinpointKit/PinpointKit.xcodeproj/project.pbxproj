@@ -441,11 +441,11 @@
 			};
 			buildConfigurationList = DA0DA5FC1C53049B0012ADBE /* Build configuration list for PBXProject "PinpointKit" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = DA0DA5F81C53049B0012ADBE;
 			productRefGroup = DA0DA6031C53049B0012ADBE /* Products */;
